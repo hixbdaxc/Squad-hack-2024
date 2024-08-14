@@ -30,7 +30,7 @@ The Squad Cheat repository is a collection of innovative cheats and modification
 </li>
 
 ## Compatibility:
-Works with the latest version of Palworld. Regular updates ensure compatibility with future game versions.
+Works with the latest version of Squda. Regular updates ensure compatibility with future game versions.
 
 ## Installation:
 [Include instructions or link to documentation]
